@@ -11,13 +11,13 @@ Este repositorio presenta una colección estructurada de notebooks y scripts des
 ✨ Habilidades y Tecnologías Clave
 Los proyectos aquí presentados reflejan mi dominio en las siguientes áreas:
 
-Manejo y Manipulación de Datos con Python:
+📋 Manejo y Manipulación de Datos con Python:
 
 Limpieza, transformación y preparación de datos utilizando bibliotecas como Pandas y NumPy.
 
 Análisis exploratorio de datos (EDA) para descubrir patrones y anomalías.
 
-Bases de Datos Relacionales con SQL:
+📈 Bases de Datos Relacionales con SQL:
 
 Diseño y modelado de bases de datos.
 
@@ -27,7 +27,7 @@ Manipulación de datos (INSERT, UPDATE, DELETE).
 
 Garantía de integridad de datos mediante claves primarias y foráneas.
 
-Visualización de Datos y Creación de Dashboards con Power BI:
+📉 Visualización de Datos y Creación de Dashboards con Power BI:
 
 Carga y transformación de datos desde diversas fuentes.
 
@@ -39,7 +39,7 @@ Diseño y construcción de dashboards interactivos y visualmente atractivos.
 
 Aplicación de principios de diseño para una comunicación clara y efectiva de los datos.
 
-Creación de Insights y Storytelling con Datos:
+📑 Creación de Insights y Storytelling con Datos:
 
 Identificación de tendencias y patrones significativos a partir de los datos.
 
