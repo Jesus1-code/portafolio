@@ -1,4 +1,4 @@
-#📊 Portafolio de Fundamentos en Análisis de Datos.
+📊 #Portafolio de Fundamentos en Análisis de Datos.
 
 Este repositorio presenta una colección estructurada de notebooks y scripts desarrollados como parte de un portafolio académico y profesional en Análisis de Datos. El propósito principal es evidenciar el dominio de las etapas fundamentales del análisis aplicado de datos, incluyendo:
 La limpieza y transformación de datos,
