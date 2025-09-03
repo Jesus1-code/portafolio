@@ -9,8 +9,6 @@ Este repositorio está dedicado a mostrar mis habilidades y conocimientos adquir
 He desarrollado una base sólida en las fases clave del ciclo de vida del análisis de datos. 
 Este repositorio presenta una colección estructurada de notebooks y scripts desarrollados como parte de un portafolio académico y profesional en Análisis de Datos. El propósito principal es evidenciar el dominio de las etapas fundamentales del análisis aplicado de datos.
 
-Habilidades y Tecnologías Clave ✨
-
 Los proyectos aquí presentados reflejan mi dominio en las siguientes áreas:
 
 ### Manejo y Manipulación de Datos con Python 📋:
