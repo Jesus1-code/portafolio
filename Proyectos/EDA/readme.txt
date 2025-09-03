@@ -1,4 +1,4 @@
-Análisis Exploratorio de la Temporada 2024-2025 de La Liga Española
+# Análisis Exploratorio de la Temporada 2024-2025 de La Liga Española
 Este repositorio contiene un notebook de Jupyter que examina datos de partidos de fútbol de la Primera División de España. El enfoque principal es en un estudio inicial y detallado de los datos para descubrir patrones y tendencias en el rendimiento de los equipos.
 Introducción
 El proyecto forma parte de un curso sobre bases del análisis de información. Utiliza un conjunto de datos de encuentros de La Liga (archivo SP1.csv) para explorar aspectos como puntuaciones, actuaciones de clubes y dinámicas de juegos. Los datos provienen de un sitio web especializado en estadísticas deportivas, e incluyen detalles como fechas, equipos involucrados, goles, tiros y sanciones.
