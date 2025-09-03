@@ -1,5 +1,6 @@
 # Análisis del Efecto Climático en la Producción Agrícola 🌾
 Este repositorio alberga un cuaderno Jupyter que examina datos simulados sobre cómo el clima cambiante afecta los cultivos. El énfasis está en métodos estadísticos para estimar valores y verificar suposiciones, con el fin de obtener lecciones útiles para estudios educativos.
+Datos obtenidos desde  https://www.kaggle.com/datasets/waqi786/climate-change-impact-on-agriculture/data
 
 # Introducción 🖥
 Este trabajo forma parte de un curso sobre análisis estadístico. Emplea un conjunto de información ficticia de Kaggle para investigar variables como el calor y las emisiones de gases en el output de cosechas. Aunque los datos no son auténticos y no sirven para políticas reales, ayudan a ilustrar técnicas de revisión de información en el ámbito agrícola.
