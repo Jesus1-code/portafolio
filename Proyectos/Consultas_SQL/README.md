@@ -1,6 +1,6 @@
 # Consultas SQL para Manejo de Ventas 🗄
 Este repositorio contiene un script SQL que crea una base de datos sencilla para gestionar operaciones comerciales. Incluye estructuras para clientes, vendedores y pedidos, junto con consultas diseñadas para extraer información útil sobre el negocio.
-
+Los datos para la realización de este ejercicio fueron extraídos desde: https://josejuansanchez.org/bd/ejercicios-consultas-sql/index.html#gesti%C3%B3n-de-ventas
 
 # Introducción 💻
 Este proyecto forma parte de un ejercicio práctico para aprender a manejar bases de datos relacionales con SQL. Se construye una estructura básica que registra datos de compradores, agentes de ventas y transacciones, permitiendo realizar búsquedas que revelan detalles sobre el desempeño y las tendencias en las actividades comerciales.
